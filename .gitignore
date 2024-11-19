@@ -1,0 +1,30 @@
+# Maven specific files
+target/
+.idea/
+*.iml
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific files
+*.iws
+*.ipr
+*.iml
+
+# Build output files
+*.log
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Maven Wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
